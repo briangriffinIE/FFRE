@@ -1,0 +1,1 @@
+$('.gallery-me').galleryMee();

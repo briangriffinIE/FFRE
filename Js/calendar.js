@@ -1,0 +1,6 @@
+/*
+
+Inspired by Google Material Design
+by Flavio Schneider
+
+*/

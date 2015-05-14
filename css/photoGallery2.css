@@ -1,0 +1,47 @@
+.gallery-me {
+  width: 250px;
+  height: auto;
+  display: block;
+  float: left;
+  margin: 10px;
+}
+
+.gallery-me img {
+  width: 100%;
+}
+
+nav.menu ul {
+	text-align:center;
+  overflow:hidden;
+  /*float:left;*/
+  /*width: 650px;*/
+  padding:0;
+  margin:0 0 0;
+  list-style: none;
+  color:#fff;
+  background: #1abc9c;
+    -webkit-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+  -moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+  box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+}
+
+nav.menu ul li {
+ display:inline-block;
+  margin:0;
+}
+
+nav.menu ul a {
+  display:block;
+  padding:25px;
+  font-size: 14px;
+  font-weight:600;
+  text-transform: uppercase;
+  color:#fff;
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
+
+nav.menu ul a:hover {
+  background:#16a085;
+  text-decoration: underline;
+}
